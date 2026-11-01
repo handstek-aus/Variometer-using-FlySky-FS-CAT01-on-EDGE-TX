@@ -25,6 +25,8 @@ After running “Discover new sensors” on the Telemetry page, a sensor named �
 
 On the Telemetry page, edit the “Alt” sensor and enable the “Filter” option at the bottom.
 
+Also edit "Vspd" and change units to "m/s"
+
 Scroll down on the Telemetry page and set Vario Source to “Vspd”.
 
 Set the Range to ±5 (recommended).
